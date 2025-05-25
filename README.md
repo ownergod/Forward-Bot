@@ -1,5 +1,11 @@
 # VJ Forward Bot
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/ownergod/Forward-Bot&branch=main&name=owner_god)
+
+
+
+
+
 <b>Auto Restart All User Forwarding After Bot Restarted.</b>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Forward+Bot+!)
