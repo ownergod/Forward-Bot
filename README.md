@@ -1,4 +1,4 @@
-# VJ Forward Bot
+# OWNEGOD FORWARD BOT 
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/ownergod/Forward-Bot&branch=main&name=owner_god)
 
